@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Esponja",
+    "price": 234.45,
+    "thumbnail": "https://res.cloudinary.com/dd0wq3bwd/image/upload/v1638825462/productos/paleta_mwqvgt.jpg",
+    "id": 1
+  },
+  {
+    "title": "Brocha de Maquillaje parpados",
+    "price": 334.45,
+    "thumbnail": "https://res.cloudinary.com/dd0wq3bwd/image/upload/v1638825462/productos/brocha_mruzut.jpg",
+    "id": 2
+  },
+  {
+    "title": "Corrector Maquillaje",
+    "price": 434.45,
+    "thumbnail": "https://res.cloudinary.com/dd0wq3bwd/image/upload/v1638825462/productos/corrector_tjjvsm.jpg",
+    "id": 3
+  }
+]
